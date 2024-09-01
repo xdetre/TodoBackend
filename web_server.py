@@ -8,7 +8,7 @@ FOLDER = '/tmp/'
 
 @app.route("/")
 def hello_world():
-    return "Hello, World!"
+    return "Hello, World aaa!"
 
 
 @app.route('/api/entries/')
